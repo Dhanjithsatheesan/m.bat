@@ -39,5 +39,4 @@ python -c "import Crypto" 2>nul || python -m pip install pycryptodome
 python -c "import requests" 2>nul || python -m pip install requests
 
 echo All dependencies installed.
-pause
 exit
